@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb4b5925-4d4c-4d27-a3bc-ba854683f0dc" name="Changes" comment="Udemy Time Series Python Course Material">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/06-SARIMA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/06-SARIMA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/07-Exogenous-Variables-SARIMAX.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/07-Exogenous-Variables-SARIMAX.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/08-Vector-AutoRegression-VAR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/08-Vector-AutoRegression-VAR.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/09-Vector-AutoRegressive-Moving-Average-VARMA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/09-Vector-AutoRegressive-Moving-Average-VARMA.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="bb4b5925-4d4c-4d27-a3bc-ba854683f0dc" name="Changes" comment="Udemy Time Series Python Course Material" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +73,7 @@
       <workItem from="1750085645879" duration="3000" />
       <workItem from="1750253316575" duration="34312000" />
       <workItem from="1750444964175" duration="18503000" />
-      <workItem from="1750885759472" duration="3890000" />
+      <workItem from="1750885759472" duration="3974000" />
     </task>
     <task id="LOCAL-00001" summary="Udemy Time Series Python Course Material">
       <option name="closed" value="true" />
@@ -105,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750613522534</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Udemy Time Series Python Course Material">
+      <option name="closed" value="true" />
+      <created>1750972270206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750972270206</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
