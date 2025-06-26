@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bb4b5925-4d4c-4d27-a3bc-ba854683f0dc" name="Changes" comment="Udemy Time Series Python Course Material">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/04-Choosing-ARIMA-Orders.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/04-Choosing-ARIMA-Orders.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/05-ARMA-and-ARIMA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/05-ARMA-and-ARIMA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/06-SARIMA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/06-SARIMA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/07-Exogenous-Variables-SARIMAX.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/07-Exogenous-Variables-SARIMAX.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/08-Vector-AutoRegression-VAR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/08-Vector-AutoRegression-VAR.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/09-Vector-AutoRegressive-Moving-Average-VARMA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL/06-General-Forecasting-Models/09-Vector-AutoRegressive-Moving-Average-VARMA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,18 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hilgazdata"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hilgazdata&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hilgazdata/Udemy_TimeSeries_Course.git",
-    "accountId": "98518b07-3e06-4880-8d80-411e0b253cef"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hilgazdata/Udemy_TimeSeries_Course.git&quot;,
+    &quot;accountId&quot;: &quot;98518b07-3e06-4880-8d80-411e0b253cef&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -37,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/HuIlgaz/PycharmProjects/TimeSeriesUdemy/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HuIlgaz/PycharmProjects/TimeSeriesUdemy/UDEMY_TSA_FINAL/UDEMY_TSA_FINAL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HuIlgaz\PycharmProjects\TimeSeriesUdemy\UDEMY_TSA_FINAL\UDEMY_TSA_FINAL" />
@@ -76,7 +78,8 @@
       <updated>1750085644783</updated>
       <workItem from="1750085645879" duration="3000" />
       <workItem from="1750253316575" duration="34312000" />
-      <workItem from="1750444964175" duration="13582000" />
+      <workItem from="1750444964175" duration="18503000" />
+      <workItem from="1750885759472" duration="3890000" />
     </task>
     <task id="LOCAL-00001" summary="Udemy Time Series Python Course Material">
       <option name="closed" value="true" />
@@ -94,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750550517747</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Udemy Time Series Python Course Material">
+      <option name="closed" value="true" />
+      <created>1750613522534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750613522534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
